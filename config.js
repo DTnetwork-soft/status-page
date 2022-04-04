@@ -25,7 +25,7 @@ window.Config = {
   ],
 
   // 是否显示监测站点的链接
-  ShowLink: true,
+  ShowLink: false,
 
   // 日志天数
   // 虽然免费版说仅保存60天日志，但测试好像API可以获取90天的
@@ -34,10 +34,6 @@ window.Config = {
 
   // 导航栏菜单
   Navi: [
-    {
-      text: '主页',
-      url: 'https://status.dtnetwork.top'
-    },
     {
       text: '监控详情',
       url: 'https://stats.uptimerobot.com/B98A3hVp13'
