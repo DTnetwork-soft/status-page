@@ -39,6 +39,10 @@ window.Config = {
       url: 'https://status.dtnetwork.top'
     },
     {
+      text: '监控详情',
+      url: 'https://stats.uptimerobot.com/B98A3hVp13'
+    },
+    {
       text: '鼎天网络社区',
       url: 'https://community.dtnetwork.top'
     },
