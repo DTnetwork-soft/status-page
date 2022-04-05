@@ -16,12 +16,18 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
-    'm791276461-45a503c7545c927b98ced422',//社区
-    'm787360179-69c085e3dc7f00173b04c837',//博客
-    'm791309296-7f7b763cc279d26d97e2cd70',//工具箱
-    'm791276546-bf41dbf0bffcb9d3c4fa8cb0',//短链接
-    'm787360228-369331113683a3a4edf27eee',//测速
-    'm791277436-0697999ee4e18d2d6b850396',//监控页面
+    //社区
+    'm791276461-45a503c7545c927b98ced422',
+    //博客
+    'm787360179-69c085e3dc7f00173b04c837',
+    //工具箱
+    'm791309296-7f7b763cc279d26d97e2cd70',
+    //短链接
+    'm791276546-bf41dbf0bffcb9d3c4fa8cb0',
+    //测速
+    'm787360228-369331113683a3a4edf27eee',
+    //监控页面
+    'm791277436-0697999ee4e18d2d6b850396',
   ],
 
   // 是否显示监测站点的链接
@@ -35,8 +41,8 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '监控详情',
-      url: 'https://stats.uptimerobot.com/B98A3hVp13'
+      text: '在线工具',
+      url: 'https://tool.dtnetwork.top/'
     },
     {
       text: '鼎天网络社区',
